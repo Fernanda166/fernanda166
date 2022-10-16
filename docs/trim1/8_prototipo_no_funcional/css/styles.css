@@ -1,6 +1,11 @@
 *{
     box-sizing: border-box;
 }
+.caja-padre{
+    padding: 20px;
+    background:palevioletred;
+    height: 100px;
+}
 .caja1 {
     width: 20%;
     height: 100px;
